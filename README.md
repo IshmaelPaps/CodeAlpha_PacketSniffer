@@ -1,4 +1,5 @@
 <-----------------------------------------<NETWORK PACKET SNIFFER (SCAPY-BASED)/>--------------------------------------------->
+
 This is a CodeAlpha project created as part of a fulfilment their internship program.
 
 The project is a lightweight Python packet sniffer that captures and logs TCP and UDP traffic on your local network using Scapy. 
